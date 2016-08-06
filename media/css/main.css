@@ -97,7 +97,7 @@ hr:after {
     display: block;
     margin: 20px 0;
     content: "----------------------------------------------------------------";
-    color: #ccc;
+    color: pink;
 }
 ul, ol {
     padding: 0;
@@ -184,7 +184,7 @@ table th.right, table td.right {
     display: block;
     content: '----------------------------------------------------------------';
     margin: 10px 0;
-    color: #ccc;
+    color: pink;
 }
 .masthead a {
     color: #333;
@@ -247,7 +247,7 @@ table th.right, table td.right {
 .post:after {
     display: block;
     content: "----------------------------------------------------------------";
-    color: #ccc;
+    color: pink;
 }
 .post img {
     max-width: 100%;
@@ -292,7 +292,7 @@ table th.right, table td.right {
     content: "----------------------------------------------------------------";
     display: block;
     margin-top: -1px;
-    color: #ccc;
+    color: pink;
 }
 
 /* table of content */
