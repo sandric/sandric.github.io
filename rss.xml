@@ -4,10 +4,17 @@
     <title>Sandric&#39;s Blog</title>
     <link>http://sandric.github.io</link>
     <description>Emacs, Programming, and clojure porn.</description>
-    <pubDate>сб, 06 сер 2016 14:18:13 EEST</pubDate>
-    <lastBuildDate>сб, 06 сер 2016 14:18:13 EEST</lastBuildDate>
+    <pubDate>сб, 06 сер 2016 14:44:03 EEST</pubDate>
+    <lastBuildDate>сб, 06 сер 2016 14:44:03 EEST</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>hhh</title>
+      <link>http://sandric.github.io/blog/2016/08/06/hhh</link>
+      <description><![CDATA[nana]]></description>
+      <pubDate>2016-08-06</pubDate>
+      <guid>http://sandric.github.io/blog/2016/08/06/hhh</guid>
+    </item>
     <item>
       <title>Hey Girl!</title>
       <link>http://sandric.github.io/blog/2016/08/06/hey-girl!</link>
