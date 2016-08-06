@@ -63,14 +63,17 @@ h1:before, h2:before, h3:before {
 h1:before {
     content: "*";
     left: -1.25em;
+    color: red;
 }
 h2:before {
     content: "**";
     left: -2em;
+    color: violet;
 }
 h3:before {
     content: "***";
     left: -2.5em;
+    color: khaki;
 }
 i, em, b, strong {
     padding-left: .1em;
@@ -294,6 +297,7 @@ table th.right, table td.right {
 
 /* table of content */
 #table-of-contents {
+    display: none;
     position: fixed;
     right: 0em;
     top: 0em;
